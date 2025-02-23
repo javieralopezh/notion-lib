@@ -31,7 +31,7 @@ function App() {
     });
   };
 
-  const REACT_APP_NOTION_TOKEN = "YOUR API KEY HERE";
+  const REACT_APP_NOTION_TOKEN = "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";
   const REACT_NOTION_DATABASE_ID = "YOUR API KEY HERE";
 
   const handleSaveToNotion = async () => {
