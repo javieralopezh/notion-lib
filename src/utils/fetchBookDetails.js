@@ -1,4 +1,4 @@
-const GOOGLE_BOOKS_API_KEY = "YOUR API KEY HERE";
+const GOOGLE_BOOKS_API_KEY = "AIzaSyBKooLmwDNvygoYf_LPj52mN9NcwdMwfuA";
 
 async function fetchBookDetails(isbn) {
   try {
